@@ -1,6 +1,6 @@
 # FX Calculator App
 
-The FX calulator is developed using React, Redux and HTML.
+The FX calculator is developed using React, Redux and HTML.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
