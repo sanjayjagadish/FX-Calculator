@@ -4,6 +4,13 @@ The FX calculator is developed using React, Redux and HTML.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installation
+git clone https://github.com/sanjayjagadish/FX-Calculator.git
+
+cd FX-Calculator
+
+npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
